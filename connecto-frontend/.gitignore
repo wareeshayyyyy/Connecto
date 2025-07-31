@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+connecto-frontend/.env
+connecto-frontend/.env.local
+connecto-frontend/node_modules/
+connecto-backend/.env
+connecto-backend/.env.local
+connecto-backend/node_modules/
